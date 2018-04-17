@@ -5,5 +5,6 @@ The purpose of the program is first to read products.json.gz, that is located in
 
 To run the program:
 First make sure that the current working directory contains  InformationRetrieval.py
+
 python InformationRetrieval.py
 
